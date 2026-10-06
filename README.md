@@ -32,4 +32,5 @@ Currently building projects using Python, SQL, Power BI and other analytics tool
 
 ### 💼 Open to
 Entry-level opportunities in **Data Analytics, Business Analytics & Business Analysis**.
+
 ⭐ Explore my repositories to see my projects and analytics journey.
