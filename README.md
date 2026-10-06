@@ -30,4 +30,6 @@ Currently building projects using Python, SQL, Power BI and other analytics tool
 🔗 [LinkedIn](https://www.linkedin.com/in/anvai-kamble)  
 💻 [GitHub](https://github.com/anvaikamble22)
 
+### 💼 Open to
+Entry-level opportunities in **Data Analytics, Business Analytics & Business Analysis**.
 ⭐ Explore my repositories to see my projects and analytics journey.
